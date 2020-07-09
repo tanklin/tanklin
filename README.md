@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on an iOS developer at travel startup in Taiwan 🇹🇼
+- 🌱 I’m currently learning how to be both mild and wild 🏞
+- 📫 How to reach me: @tank1005 in Twitter & Instagram 📱
+- ⚡ Fun fact: I'm a dual personality with dog-person and cat-person 🐕🐈
+
 <!--
 **tanklin/tanklin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
